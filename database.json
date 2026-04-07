@@ -1,0 +1,321 @@
+{
+  "scoreboards": [
+    {
+      "id": "ee6eff8f-640e-45e8-a55e-65e20b297873",
+      "title": "Test nr 1 aktualizacja",
+      "pointScale": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "presentationMode": "one-by-one",
+      "participants": [
+        {
+          "id": "43e2f3bb-dd01-4891-93e8-e2663a605136",
+          "flagCode": "HK",
+          "name": "River"
+        },
+        {
+          "id": "96b8a36b-f969-44a2-8d36-f0c64186195d",
+          "flagCode": "SE",
+          "name": "Hold me closer"
+        },
+        {
+          "id": "707ace1a-ef73-4155-a329-19f74681b56c",
+          "flagCode": "UA",
+          "name": "Stefanija"
+        },
+        {
+          "id": "e4443279-9eff-4fc0-8d46-7ba631e2560b",
+          "flagCode": "AL",
+          "name": "Sekret"
+        },
+        {
+          "id": "f640a290-264f-4325-8f22-6aaeddf9daa3",
+          "flagCode": "LV",
+          "name": "Eat my pussy"
+        },
+        {
+          "id": "4b947474-38eb-4745-9ce4-69e6d736d96a",
+          "flagCode": "pt",
+          "name": "saudade, saudade"
+        },
+        {
+          "id": "9a3fdca0-4734-48c8-bb1c-d8b4a4347ab6",
+          "flagCode": "am",
+          "name": "Snap"
+        },
+        {
+          "id": "de508bc1-dd30-4043-87f4-93b2adfce1ad",
+          "flagCode": "au",
+          "name": "Not the same"
+        },
+        {
+          "id": "a0b4ba01-aced-479a-b232-8d23c7ce1942",
+          "flagCode": "ro",
+          "name": "llamame, llamame"
+        },
+        {
+          "id": "f0d9e967-e1d0-41a3-8311-6d25a4014e4d",
+          "flagCode": "CN",
+          "name": "China"
+        }
+      ],
+      "juries": [
+        {
+          "id": "41320c03-a4c9-4c25-8192-ab73dfb7b507",
+          "flagCode": "AU",
+          "name": "Soviet Union",
+          "votes": {
+            "a0b4ba01-aced-479a-b232-8d23c7ce1942": 1,
+            "96b8a36b-f969-44a2-8d36-f0c64186195d": 2,
+            "9a3fdca0-4734-48c8-bb1c-d8b4a4347ab6": 3,
+            "f640a290-264f-4325-8f22-6aaeddf9daa3": 4,
+            "e4443279-9eff-4fc0-8d46-7ba631e2560b": 5,
+            "f0d9e967-e1d0-41a3-8311-6d25a4014e4d": 6,
+            "43e2f3bb-dd01-4891-93e8-e2663a605136": 7,
+            "60459ce9-cfd0-4640-bc96-1eaf8abee552": 8,
+            "707ace1a-ef73-4155-a329-19f74681b56c": 10,
+            "4b947474-38eb-4745-9ce4-69e6d736d96a": 12
+          }
+        },
+        {
+          "id": "8a5e5d43-d6db-48be-b35c-bffe9137384a",
+          "flagCode": "DE",
+          "name": "Germany",
+          "votes": {
+            "4b947474-38eb-4745-9ce4-69e6d736d96a": 1,
+            "e4443279-9eff-4fc0-8d46-7ba631e2560b": 2,
+            "f640a290-264f-4325-8f22-6aaeddf9daa3": 3,
+            "f0d9e967-e1d0-41a3-8311-6d25a4014e4d": 4,
+            "707ace1a-ef73-4155-a329-19f74681b56c": 5,
+            "43e2f3bb-dd01-4891-93e8-e2663a605136": 6,
+            "a0b4ba01-aced-479a-b232-8d23c7ce1942": 7,
+            "9a3fdca0-4734-48c8-bb1c-d8b4a4347ab6": 8,
+            "de508bc1-dd30-4043-87f4-93b2adfce1ad": 10,
+            "96b8a36b-f969-44a2-8d36-f0c64186195d": 12
+          }
+        },
+        {
+          "id": "96526979-9a04-4ab1-b8dd-1acd61f44564",
+          "flagCode": "CA",
+          "name": "Dawid",
+          "votes": {
+            "96b8a36b-f969-44a2-8d36-f0c64186195d": 1,
+            "707ace1a-ef73-4155-a329-19f74681b56c": 2,
+            "a0b4ba01-aced-479a-b232-8d23c7ce1942": 3,
+            "f0d9e967-e1d0-41a3-8311-6d25a4014e4d": 4,
+            "de508bc1-dd30-4043-87f4-93b2adfce1ad": 5,
+            "f640a290-264f-4325-8f22-6aaeddf9daa3": 6,
+            "4b947474-38eb-4745-9ce4-69e6d736d96a": 7,
+            "60459ce9-cfd0-4640-bc96-1eaf8abee552": 8,
+            "e4443279-9eff-4fc0-8d46-7ba631e2560b": 10,
+            "43e2f3bb-dd01-4891-93e8-e2663a605136": 12
+          }
+        },
+        {
+          "id": "8abbed5f-fe33-4c12-8367-0919f7cb724b",
+          "flagCode": "DZ",
+          "name": "Algeria",
+          "votes": {
+            "a0b4ba01-aced-479a-b232-8d23c7ce1942": 1,
+            "de508bc1-dd30-4043-87f4-93b2adfce1ad": 2,
+            "4b947474-38eb-4745-9ce4-69e6d736d96a": 3,
+            "f0d9e967-e1d0-41a3-8311-6d25a4014e4d": 4,
+            "f640a290-264f-4325-8f22-6aaeddf9daa3": 5,
+            "43e2f3bb-dd01-4891-93e8-e2663a605136": 6,
+            "e4443279-9eff-4fc0-8d46-7ba631e2560b": 7,
+            "707ace1a-ef73-4155-a329-19f74681b56c": 8,
+            "96b8a36b-f969-44a2-8d36-f0c64186195d": 10,
+            "60459ce9-cfd0-4640-bc96-1eaf8abee552": 12
+          }
+        },
+        {
+          "id": "28fec9d6-ebe1-4f47-8a5f-f63bac12d7c2",
+          "flagCode": "YUG",
+          "name": "sss",
+          "votes": {
+            "43e2f3bb-dd01-4891-93e8-e2663a605136": 4,
+            "96b8a36b-f969-44a2-8d36-f0c64186195d": 6
+          }
+        }
+      ],
+      "createdAt": 1775503177103,
+      "publicToken": "a2b80ee7-9446-4016-9095-96cf9c5ca6a8",
+      "fullToken": "54e18403-66e8-4cbd-bbc7-e69638ce01e5"
+    },
+    {
+      "id": "876cf4fd-a21a-4f18-8197-44e65a93da39",
+      "title": "a",
+      "pointScale": [
+        12,
+        10,
+        8,
+        6,
+        4,
+        2,
+        1
+      ],
+      "presentationMode": "one-by-one",
+      "participants": [],
+      "juries": [],
+      "createdAt": 1775511602174
+    },
+    {
+      "id": "fb35a64b-8c19-4cf9-83b3-4a963c5f3b89",
+      "title": "aabb",
+      "pointScale": [
+        12,
+        10,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "presentationMode": "one-by-one",
+      "participants": [
+        {
+          "id": "4f9c2afe-150e-4b05-9ae2-b65bd16781e3",
+          "flagCode": "AU",
+          "name": "Australia"
+        },
+        {
+          "id": "1113645a-88b9-43ad-84fb-477cb369cf1f",
+          "flagCode": "EE",
+          "name": "Estonia"
+        },
+        {
+          "id": "87af1a53-dfb8-4bb9-aa26-77f5af2946a3",
+          "flagCode": "PS",
+          "name": "Palestine"
+        },
+        {
+          "id": "23119843-8c2f-4dbf-94d0-d54cf36ce456",
+          "flagCode": "BN",
+          "name": "Brunei"
+        },
+        {
+          "id": "fa3386b0-5903-4327-884d-cf4fc7b044b4",
+          "flagCode": "LA",
+          "name": "Laos"
+        },
+        {
+          "id": "d921f019-3d95-48f3-b835-2eecbbbd8b8b",
+          "flagCode": "FR",
+          "name": "France"
+        },
+        {
+          "id": "50598acc-c8dc-4df9-b5bc-ad8253f8ddc8",
+          "flagCode": "ENG",
+          "name": "England"
+        },
+        {
+          "id": "e0548572-01f1-48ff-a008-6528975ba77f",
+          "flagCode": "DE",
+          "name": "Germany"
+        },
+        {
+          "id": "7c05cf59-c4b1-4aa0-a2c3-907812597bd8",
+          "flagCode": "TW",
+          "name": "Taiwan"
+        },
+        {
+          "id": "1acb036e-00c5-4b9f-9ed2-108ae54ed7df",
+          "flagCode": "BW",
+          "name": "Botswana"
+        },
+        {
+          "id": "496443b8-c979-485a-8b30-181629d42c20",
+          "flagCode": "CD",
+          "name": "Democratic Republic of the Congo"
+        }
+      ],
+      "juries": [
+        {
+          "id": "0d1ec253-25ec-44a3-b89a-3e4bb1103fce",
+          "flagCode": "FO",
+          "name": "j",
+          "votes": {
+            "d921f019-3d95-48f3-b835-2eecbbbd8b8b": 1,
+            "fa3386b0-5903-4327-884d-cf4fc7b044b4": 2,
+            "496443b8-c979-485a-8b30-181629d42c20": 3,
+            "7c05cf59-c4b1-4aa0-a2c3-907812597bd8": 4,
+            "87af1a53-dfb8-4bb9-aa26-77f5af2946a3": 5,
+            "23119843-8c2f-4dbf-94d0-d54cf36ce456": 6,
+            "1acb036e-00c5-4b9f-9ed2-108ae54ed7df": 7,
+            "50598acc-c8dc-4df9-b5bc-ad8253f8ddc8": 8,
+            "1113645a-88b9-43ad-84fb-477cb369cf1f": 10,
+            "4f9c2afe-150e-4b05-9ae2-b65bd16781e3": 12
+          }
+        },
+        {
+          "id": "1da011c7-2838-4659-8a9c-32ab47034a99",
+          "flagCode": "UN",
+          "name": "2",
+          "votes": {
+            "7c05cf59-c4b1-4aa0-a2c3-907812597bd8": 1,
+            "fa3386b0-5903-4327-884d-cf4fc7b044b4": 2,
+            "e0548572-01f1-48ff-a008-6528975ba77f": 3,
+            "1acb036e-00c5-4b9f-9ed2-108ae54ed7df": 4,
+            "23119843-8c2f-4dbf-94d0-d54cf36ce456": 5,
+            "87af1a53-dfb8-4bb9-aa26-77f5af2946a3": 6,
+            "496443b8-c979-485a-8b30-181629d42c20": 7,
+            "1113645a-88b9-43ad-84fb-477cb369cf1f": 8,
+            "4f9c2afe-150e-4b05-9ae2-b65bd16781e3": 10,
+            "d921f019-3d95-48f3-b835-2eecbbbd8b8b": 12
+          }
+        },
+        {
+          "id": "644c6647-d3f7-4f37-a310-fb5e3783d363",
+          "flagCode": "UN",
+          "name": "3",
+          "votes": {}
+        },
+        {
+          "id": "a43cfc33-75c2-4d97-9403-747887b23f8b",
+          "flagCode": "UN",
+          "name": "4",
+          "votes": {}
+        },
+        {
+          "id": "102e49fd-e1a1-4b55-b360-291808ccef0e",
+          "flagCode": "UN",
+          "name": "5",
+          "votes": {}
+        },
+        {
+          "id": "fefd3f8f-ff78-44ee-9d95-6b24a0ce605c",
+          "flagCode": "UN",
+          "name": "6",
+          "votes": {}
+        },
+        {
+          "id": "fc461e70-177b-4bf3-9f5d-cf9b9281ae8d",
+          "flagCode": "AT",
+          "name": "Austria",
+          "votes": {}
+        },
+        {
+          "id": "91ddd00c-5d04-46cf-882e-a25fe6c33e76",
+          "flagCode": "AT",
+          "name": "rr",
+          "votes": {}
+        }
+      ],
+      "createdAt": 1775581443436,
+      "publicToken": "f90f9cba-4e65-45dd-847f-0688754775fb",
+      "fullToken": "d98eb82c-e95f-43e1-af1e-4aea30f6c3c9"
+    }
+  ]
+}
